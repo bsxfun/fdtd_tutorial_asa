@@ -5,6 +5,8 @@ Matlab code for the Acoustics in Focus Invited Talk:
 
 *2pCA2. Tutorial on finite-difference time-domain (FDTD) methods for room acoustics simulation.*
 
+A recording of the tutorial can be viewed at [this link](https://www.youtube.com/watch?v=xgJJwmrX568).
+
 ## Usage
 
 Run the script 'fdtd_tutorial_asa.m' in Matlab.
